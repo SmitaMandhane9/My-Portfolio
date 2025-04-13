@@ -24,7 +24,6 @@ Experience a visual feast with the magic of Three JS, creating a stunning 3D env
 - Three JS
 
 
-
 ## Responsiveness Reigns
 Your journey through Smita's portfolio is seamless and delightful across all devices.
 
