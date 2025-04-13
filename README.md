@@ -1,10 +1,10 @@
 
-# Smita's Portfolio 🌐🚀
+# Smita's Portfolio 
 
 Welcome to Smita’s 3D interactive portfolio — where data meets design! This project, powered by HTML, CSS, Tailwind, JavaScript, React, and Three.js, reflects her professional journey in advance analytics, showcasing her skills in storytelling with data, automation and front-end technology.
 
 
-## ✨ Key Features
+## Key Features
 
 ### Immersive 3D Design
 Experience a visual feast with the magic of Three JS, creating a stunning 3D environment.
@@ -23,11 +23,10 @@ Experience a visual feast with the magic of Three JS, creating a stunning 3D env
 - React JS
 - Three JS
 
-
 ## Responsiveness Reigns
 Your journey through Smita's portfolio is seamless and delightful across all devices.
 
-## 🚀 How to Launch
+## How to Launch
 
 ### Clone & Explore:
 
