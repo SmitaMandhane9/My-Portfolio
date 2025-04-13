@@ -15,7 +15,7 @@ Experience a visual feast with the magic of Three JS, creating a stunning 3D env
 - **About Page:** Uncover the story of Smita's journey, skills and passion.
 - **Projects Page:** Interact with a 3D showcase of Smita's best works.
 - **Contact Page:** Encounter a playful 3D fox, adding charm to the contact experience.
-## Tech Stack Magic 🖥️
+## Tech Stack Magic
 - HTML
 - CSS
 - Tailwind CSS
