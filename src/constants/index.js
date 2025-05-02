@@ -280,6 +280,13 @@ export const projects = [
         description: 'This Power BI dashboard provides a dynamic and visual comparison of the investment performance of TQQQ and QQQ, leveraging real-time data extracted from Yahoo Finance via Python API integration. It enables investors to assess the impact of leveraged ETFs over different periods using key return metrics and dollar-cost averaging simulations.',
         link: 'https://github.com/SmitaMandhane9/Exploring-Risk-and-Reward-in-Exchange-Traded-Funds-Yahoo-Finance-',
     },
+    {
+        iconUrl: mountains,
+        theme: 'btn-back-blue',
+        name: 'AI-Powered Resume Evaluation Automation',
+        description: 'Developed automated n8n workflow integrating Gmail/Gemini APIs to extract/analyze/summarize resumes, reducing manual screening time by 80%. Engineered AI models for structured data extraction.',
+        link: 'https://github.com/SmitaMandhane9/Resume-Evaluation-AI-Agent-n8n-Google-Gemini-',
+    }
     //{
     //    iconUrl: vr,
     //    theme: 'btn-back-pink',
